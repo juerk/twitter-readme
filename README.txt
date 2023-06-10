@@ -1,0 +1,1 @@
+Testing out how the twitter API works. Attempting to set up a bot that will tweet whenever a certain transaction takes place on a blockchain network.
